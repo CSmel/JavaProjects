@@ -1,0 +1,14 @@
+
+.button {
+ -fx-background-color : #358aa4;
+ -fx-pref-width: 120px;
+ -fx-font-size: 20px;
+    }
+.label, .button, .button:hover{
+-fx-font-weight: 900;
+} 
+.button:hover{
+-fx-color : #000;
+}
+#bold{
+-fx-font-weight: bold;}
